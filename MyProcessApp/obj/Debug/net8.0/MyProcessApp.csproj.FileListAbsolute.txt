@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\bin\Debug\net8.0\MyProcessApp.exe
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\bin\Debug\net8.0\MyProcessApp.deps.json
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\bin\Debug\net8.0\MyProcessApp.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\bin\Debug\net8.0\MyProcessApp.dll
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\bin\Debug\net8.0\MyProcessApp.pdb
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\obj\Debug\net8.0\MyProcessApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\obj\Debug\net8.0\MyProcessApp.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\obj\Debug\net8.0\MyProcessApp.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\obj\Debug\net8.0\MyProcessApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\obj\Debug\net8.0\MyProcessApp.sourcelink.json
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\obj\Debug\net8.0\MyProcessApp.dll
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\obj\Debug\net8.0\refint\MyProcessApp.dll
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\obj\Debug\net8.0\MyProcessApp.pdb
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\obj\Debug\net8.0\MyProcessApp.genruntimeconfig.cache
+C:\Users\admin\Documents\GitHub\js_html_css_university\MyProcessApp\obj\Debug\net8.0\ref\MyProcessApp.dll

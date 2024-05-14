@@ -22,6 +22,13 @@ var isPlummeting;
 var speed;
 var jumpspeed;
 
+let score = 0;
+let abyss = {
+  x: width + 100,
+  y: floorPos_y,
+  width: 100,
+  height: 100
+};
 
 function setup() {
     createCanvas(1024, 576);
@@ -122,6 +129,8 @@ function draw() {
     triangle(x1, y1, x2, y2, x3, y3);
   }
 
+
+  
 	//the game character
 	if(isLeft && isFalling)
 	{
@@ -168,27 +177,6 @@ function draw() {
 
 
     
-  // 5. a collectable token - eg. a jewel, fruit, coins
-  fill(120, 219, 226); // Светло-синий цвет
-  let PrimogemSize = 50; // Размер токена
-  let angleToken = TWO_PI / 4;
-  let halfAngleToken = angleToken / 2.0;
-  resetMatrix(); // Сбрасываем трансформацию
-  translate(width / 2, height / 2 + 200); // Перемещаем координаты в центр холста с небольшим смещением вниз
-  beginShape();
-  for (let a = 0; a < TWO_PI; a += angleToken) {
-	  let sx = cos(a) * PrimogemSize;
-	  let sy = sin(a) * PrimogemSize;
-	  vertex(sx, sy);
-
-	  sx = cos(a + halfAngleToken) * (PrimogemSize / 2);
-	  sy = sin(a + halfAngleToken) * (PrimogemSize / 2);
-	  vertex(sx, sy);
-  }
-
-  
-  endShape(CLOSE);
-
   
 
 
